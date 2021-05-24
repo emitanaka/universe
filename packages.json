@@ -1,0 +1,14 @@
+[
+  {
+    "package": "edibble",
+    "url": "https://github.com/emitanaka/edibble"
+  },
+  {
+    "package" : "nestr",
+    "url" : "https://github.com/emitanaka/nestr",
+  },
+  {
+    "package": "deggust",
+    "url": "https://github.com/emitanaka/deggust"
+  }
+]
